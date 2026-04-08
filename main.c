@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	char msg[] = "test";
+	char msg[] = "Jag sabbootterar KooooOOOdennn";
 	return 0;
 };
