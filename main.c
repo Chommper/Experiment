@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	char msg[] = "test";
+	char msg[] = "Här är vi seriösa";
 	return 0;
 };
