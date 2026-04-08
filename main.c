@@ -2,5 +2,6 @@
 
 int main(void)
 {
-  return 0;
+	char msg[] = "test";
+	return 0;
 };
